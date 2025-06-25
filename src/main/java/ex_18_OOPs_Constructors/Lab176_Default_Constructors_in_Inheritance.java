@@ -16,7 +16,7 @@ class Car1 extends Vehicle {
 }
 
 // Main class
-public class Default_Constructors_in_Inheritance {
+public class Lab176_Default_Constructors_in_Inheritance {
     public static void main(String[] args) {
         Car1 c = new Car1(); // Creating object of child class
     }

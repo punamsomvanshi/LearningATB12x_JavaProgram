@@ -22,7 +22,7 @@ class StudentID {
         System.out.println("Age : " + age);
     }
 }
-public class Constructor_Overloading {
+public class Lab173_Constructor_Overloading {
     public static void main(String[] args) {
 
         StudentID s1 = new StudentID();

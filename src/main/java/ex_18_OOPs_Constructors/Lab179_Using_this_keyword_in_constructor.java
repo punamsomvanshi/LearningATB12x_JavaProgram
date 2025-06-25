@@ -16,7 +16,7 @@ class StudentA {
     }
 }
 
-public class Using_this_keyword_in_constructor {
+public class Lab179_Using_this_keyword_in_constructor {
     public static void main(String[] args) {
         StudentA s = new StudentA("Punam", 27);
         s.display();

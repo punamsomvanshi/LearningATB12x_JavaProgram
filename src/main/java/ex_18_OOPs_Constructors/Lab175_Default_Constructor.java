@@ -1,6 +1,6 @@
 package ex_18_OOPs_Constructors;
 
-public class Default_Constructor {
+public class Lab175_Default_Constructor {
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.display();

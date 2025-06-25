@@ -18,7 +18,7 @@ class Dog extends Animal {
 }
 
 // Main class
-public class Constructor_in_Inheritance {
+public class Lab172_Constructor_in_Inheritance {
     public static void main(String[] args) {
         Dog dog = new Dog(); // Creating Dog object
     }

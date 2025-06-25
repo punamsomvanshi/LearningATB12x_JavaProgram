@@ -18,7 +18,7 @@ class dog extends animal {
 }
 
 // Main class
-public class Method_Overriding_in_Inheritance {
+public class Lab167_Method_Overriding_in_Inheritance {
     public static void main(String[] args) {
         animal a1 = new animal();  // Calls parent class method
         a1.sound();

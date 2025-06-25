@@ -17,7 +17,7 @@ class Dog extends Animal {
 }
 
 // Main class
-public class Single_Inheritance {
+public class Lab170_Single_Inheritance {
     public static void main(String[] args) {
 
        Animal a = new Animal();    // Creating object of parent class

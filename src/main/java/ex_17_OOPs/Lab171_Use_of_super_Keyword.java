@@ -20,7 +20,7 @@ class Student extends Personx {
 }
 
 // Main class
-public class Use_of_super_Keyword {
+public class Lab171_Use_of_super_Keyword {
     public static void main(String[] args) {
         Student s = new Student();
         s.displayInfo();

@@ -1,12 +1,13 @@
 package ex_18_OOPs_Constructors;
 
-public class Parameterized_Constructor {
+public class Lab177_Parameterized_Constructor {
     public static void main(String[] args) {
 
         student s1 = new student("Punam", 27);
         s1.display();
     }
 }
+
 class student {
     String name;
     int age;

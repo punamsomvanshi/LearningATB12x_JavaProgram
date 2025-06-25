@@ -1,6 +1,6 @@
 package ex_17_OOPs;
 
-public class Multilevel_Inheritance {
+public class Lab168_Multilevel_Inheritance {
     public static void main(String[] args){
         Manager m = new Manager ();
         m.displayPerson();

@@ -1,6 +1,6 @@
 package ex_17_OOPs;
 
-public class hierarchical_Inheritance {
+public class Lab166_hierarchical_Inheritance {
     public static void main(String[] args) {
 
         Car c = new Car();

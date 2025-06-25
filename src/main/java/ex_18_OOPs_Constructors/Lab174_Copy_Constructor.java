@@ -23,7 +23,7 @@ class StudentB {
     }
 }
 
-public class Copy_Constructor {
+public class Lab174_Copy_Constructor {
     public static void main(String[] args) {
         StudentB s1 = new StudentB("Punam Somvanshi", 27);
         StudentB s2 = new StudentB(s1); // Using copy constructor
