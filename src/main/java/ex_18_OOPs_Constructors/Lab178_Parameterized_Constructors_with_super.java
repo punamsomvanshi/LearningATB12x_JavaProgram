@@ -17,7 +17,7 @@ class Person {
 }
 
 // Child class
-class Employee extends Person {
+class  Employee extends Person {
     Employee(String name, int id) {
         super(name);             // Calling parent constructor with parameter
         System.out.println("Employee constructor called: ID = " + id);

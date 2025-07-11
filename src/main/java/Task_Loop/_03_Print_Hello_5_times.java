@@ -1,6 +1,6 @@
-package Task_For_Loop;
+package Task_Loop;
 
-public class Print_Hello_5_times {
+public class _03_Print_Hello_5_times {
     public static void main(String[] args) {
 
         for (int i = 1; i<= 5; i++){

@@ -1,6 +1,6 @@
-package Task_For_Loop;
+package Task_Loop;
 
-public class Print_the_multiplication_table_of_5 {
+public class _05_multiplication_table_of_5 {
     public static void main(String[] args) {
 
         int number = 5;

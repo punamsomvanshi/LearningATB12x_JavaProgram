@@ -1,6 +1,6 @@
-package Task_For_Loop;
+package Task_Loop;
 
-public class Even_Num_1_To_20 {
+public class _01_Even_Num_1_To_20 {
     public static void main(String[] args) {
 
         System.out.println("Even Number from 1 To 20: ");

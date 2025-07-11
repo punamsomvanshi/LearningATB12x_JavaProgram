@@ -1,6 +1,6 @@
-package Task_For_Loop;
+package Task_Loop;
 
-public class Print_Sum_Num {
+public class _04_Sum_Number {
     public static void main(String[] args) {
         int sum = 0;
 
